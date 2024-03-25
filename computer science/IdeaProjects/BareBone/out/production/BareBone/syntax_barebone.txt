@@ -1,0 +1,25 @@
+barebone syntax
+clear = set zero
+incr = +1
+decr = -1
+while .. do => end  (seek end)
+variable
+;
+
+if a == 9 then
+else
+end
+
+need check if syntax is correct
+function => check (boolean) => return false if syntax is wrong
+loop => check line
+loop => check word in line
+
+first read data
+second split data stream by ;
+third split data by space " ";
+
+
+IMPORTANT
+    use a flag checking if the program is running the if else statement
+    endif => indicate the end of if else

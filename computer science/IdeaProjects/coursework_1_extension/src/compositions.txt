@@ -1,0 +1,7 @@
+Name : school anthem
+Tempo : Lento
+Length : 9
+{4,8,2,8,2,8,2,4,8}
+Piano , soft , {C5, B4, A4, F5, E5, D5, C5, none, none}
+Violin , soft , {C4, B3, A3, F4, E4, D4, C4}
+Cello , soft , {C4, B3, A3, F4, E4, D4, C4}

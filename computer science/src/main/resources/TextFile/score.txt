@@ -1,0 +1,10 @@
+Lucas:10000
+Lucas:9000
+Lucas:8000
+Lucas:7000
+Lucas:6000
+Lucas:5000
+Lucas:4000
+Lucas:3000
+Lucas:2000
+Lucas:1000

@@ -1,0 +1,5 @@
+Name : Never gonna give you up
+Tempo : Larghissimo
+Length : 10
+{8,8,8,8,4,4,4}
+Piano , soft , { A3 , B3 , D4 , B3 , F #4 , F #4  , E4  }
